@@ -1,0 +1,15 @@
+{
+  "joinMessage": "Spieler {player} ist dem Spiel beigetreten.",
+  "shootMessage": "Ein Spieler hat geschossen.",
+  "killMessage": "Spieler {victim} wurde von {killer} getötet.",
+  "leaveMessage": "Spieler {player} hat das Spiel verlassen.",
+  "txAdminMessage": "txAdmin-Aktion: {command}",
+  "notifyEvent": "esx:showNotification",
+  "permissions": {
+    "join": "custom.perm.join",
+    "shoot": "custom.perm.shoot",
+    "kill": "custom.perm.kill",
+    "leave": "custom.perm.leave",
+    "txadmin": "custom.perm.txadmin"
+  }
+}
